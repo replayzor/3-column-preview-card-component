@@ -15,7 +15,7 @@ function App() {
 					</p>
 					<button
 						type="button"
-						className="px-7 py-2.5 tracking-wide rounded-full hover:ring hover:ring-white hover:text-white hover:bg-transparent text-primary-brightOrange bg-neutral-veryLightGray"
+						className="transition-all duration-300 px-7 py-2.5 tracking-wide rounded-full hover:ring hover:ring-white hover:text-white hover:bg-transparent text-primary-brightOrange bg-neutral-veryLightGray"
 					>
 						Learn More
 					</button>
@@ -31,7 +31,7 @@ function App() {
 					</p>
 					<button
 						type="button"
-						className="px-7 py-2.5 tracking-wide rounded-full hover:ring hover:ring-white hover:text-white hover:bg-transparent text-primary-darkCyan bg-neutral-veryLightGray"
+						className="px-7 transition-all duration-300 py-2.5 tracking-wide rounded-full hover:ring hover:ring-white hover:text-white hover:bg-transparent text-primary-darkCyan bg-neutral-veryLightGray"
 					>
 						Learn More
 					</button>
@@ -47,7 +47,7 @@ function App() {
 					</p>
 					<button
 						type="button"
-						className="px-7 py-2.5 tracking-wide rounded-full hover:ring hover:ring-white hover:text-white hover:bg-transparent text-primary-veryDarkCyan bg-neutral-veryLightGray"
+						className="px-7 py-2.5 transition-all duration-300 tracking-wide rounded-full hover:ring hover:ring-white hover:text-white hover:bg-transparent text-primary-veryDarkCyan bg-neutral-veryLightGray"
 					>
 						Learn More
 					</button>
