@@ -2,7 +2,7 @@
 
 function App() {
 	return (
-		<main className="min-h-screen py-8 flex flex-col items-center justify-center  md:max-w-[1200px]">
+		<main className="flex flex-col items-center justify-center min-h-screen py-8">
 			<article className="flex  flex-col w-3/4 md:flex-row md:w-[700px]">
 				<div className="px-8 py-8 rounded-t-lg md:rounded-bl-lg md:rounded-tr-none bg-primary-brightOrange ">
 					<img src="/images/icon-sedans.svg" alt="" />
